@@ -20,3 +20,5 @@ Jan. - Aug. 2019: https://scholarworks.alaska.edu/handle/11122/11967
 Date range: 2018-05-12 ⇒ 2019-08-24
 
 Numbers of Events: 7242
+
+Number of Events with depth over 50km: 1969
