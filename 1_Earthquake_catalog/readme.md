@@ -17,7 +17,7 @@ Jan. - Aug. 2019: https://scholarworks.alaska.edu/handle/11122/11967
 
 ### AACSE Earthquake Catalog
 
-Date range: 2018-05-12 ⇒ 2019-08-24
+Time range: 2018-05-12 ⇒ 2019-08-24
 
 Numbers of Events: 7242
 
