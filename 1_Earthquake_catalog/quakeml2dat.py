@@ -1,7 +1,7 @@
 from obspy import read_events
+# read quakemlfiles and extract event information
 
 cat = read_events("*.quakeml")
-
 with open("AACSE_catalog.dat", "w") as fcat:
     for event in cat:
         origin = event.origins[0]
