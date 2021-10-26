@@ -22,3 +22,11 @@ Time range: 2018-05-12 ⇒ 2019-08-24
 Numbers of Events: 7242
 
 Number of Events with depth over 50km: 1969
+
+### Picks
+
+Number of picks: 433104
+
+Number of P wave picks: 303602
+
+Number of S wave picks: 129502
